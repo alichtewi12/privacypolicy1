@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Last updated: July 28, 2025</p>
+
+  <p>This Privacy Policy describes how the Weather App ("we", "our", or "us") collects, uses, and protects your information when you use our mobile application.</p>
+
+  <h2>Information We Collect</h2>
+  <ul>
+    <li><strong>Location Data:</strong> We collect your device's precise location (foreground and background) to provide accurate local weather data, forecasts, radar maps, and to send weather alerts.</li>
+    <li><strong>Usage Data:</strong> We may collect non-personal usage statistics to improve the app experience.</li>
+    <li><strong>Advertising Data:</strong> We use Google AdMob, which may collect information such as device ID, IP address, and advertising interactions to personalize ads.</li>
+  </ul>
+
+  <h2>How We Use Your Information</h2>
+  <p>We use the collected data to:</p>
+  <ul>
+    <li>Provide accurate weather forecasts and notifications</li>
+    <li>Enhance app performance and user experience</li>
+    <li>Display personalized ads using AdMob</li>
+  </ul>
+
+  <h2>Third-Party Services</h2>
+  <p>We use the following third-party services that may collect and use your data according to their own policies:</p>
+  <ul>
+    <li><strong>Google AdMob</strong> – to serve ads. Read <a href="https://policies.google.com/technologies/ads">AdMob's privacy policy</a>.</li>
+    <li><strong>Firebase (Google)</strong> – for analytics and notifications</li>
+    <li><strong>OpenWeatherMap</strong> – to fetch weather data based on your location</li>
+  </ul>
+
+  <h2>Data Sharing</h2>
+  <p>We do not sell or share your personal information with any third parties except for the services listed above or as required by law.</p>
+
+  <h2>Data Retention</h2>
+  <p>We retain collected data only as long as necessary to provide our services or as required by applicable laws.</p>
+
+  <h2>Your Choices</h2>
+  <p>You can opt out of personalized ads by visiting <a href="https://www.google.com/settings/ads">Google Ad Settings</a>.</p>
+  <p>You can also disable location access from your device settings, although this may limit app functionality.</p>
+
+  <h2>Security</h2>
+  <p>We take reasonable steps to secure your information, but no system is completely secure.</p>
+
+  <h2>Children’s Privacy</h2>
+  <p>Our app is suitable for children under the age of 13. We are committed to complying with the Children's Online Privacy Protection Act (COPPA). While the app is designed to be child-friendly, it may display ads through Google AdMob. No personally identifiable information is knowingly collected from children under 13.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, contact us at: <strong>alichtewi73@gmail.com</strong></p>
+
+</body>
+</html>
